@@ -6,10 +6,7 @@ import bchain from '../src/img/bchain.jpg'
 import inf from '../src/img/inf.jpg'
 import webd from '../src/img/web.jpg'
 const data=[
-    {
-        title:'web devlopment',
-        imgsrc:webd
-    },
+   
     {
         title:'App devlopment',
         imgsrc:App
